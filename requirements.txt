@@ -1,0 +1,6 @@
+requests
+pyTelegramBotAPI
+ccxt
+aiohttp
+nest_asyncio
+python-dotenv
